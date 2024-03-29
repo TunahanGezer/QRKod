@@ -16,11 +16,3 @@ This Python script generates a QR code for a given URL and saves it as an image 
 
 - Python 3.x
 - `qrcode` library (`pip install qrcode`)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-You can copy this content into a file named `README.md` in your project directory. This basic README provides essential information about your QR code generator script and how to use it. Feel free to customize it further according to your preferences! If you have any questions or need additional assistance, please let me know.
